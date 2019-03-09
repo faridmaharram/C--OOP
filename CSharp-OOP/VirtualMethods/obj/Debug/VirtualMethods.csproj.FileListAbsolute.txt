@@ -1,0 +1,7 @@
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\obj\Debug\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Farid\source\repos\CSharp-OOP\VirtualMethods\obj\Debug\VirtualMethods.pdb
