@@ -1,0 +1,7 @@
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Farid\source\repos\CSharp-OOP\AbstractClasses\obj\Debug\AbstractClasses.pdb
